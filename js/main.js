@@ -23,37 +23,37 @@ for (count = 0; count < 4; count++) {
   document.write(newLetter);
 }
 
-document.write('<br>')
+document.write('<br>');
 
 for (count = 0; count < 5; count++) {
   document.write(newLetter);
 }
 
-document.write('<br>')
+document.write('<br>');
 
 for (count = 0; count < 6; count++) {
   document.write(newLetter);
 }
 
-document.write('<br>')
+document.write('<br>');
 
 for (count = 0; count < 7; count++) {
   document.write(newLetter);
 }
 
-document.write('<br>')
+document.write('<br>');
 
 for (count = 0; count < 8; count++) {
   document.write(newLetter);
 }
 
-document.write('<br>')
+document.write('<br>');
 
 for (count = 0; count < 9; count++) {
   document.write(newLetter);
 }
 
-document.write('<br>')
+document.write('<br>');
 
 for (count = 0; count < 10; count++) {
   document.write(newLetter);
